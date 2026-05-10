@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package Praktikum_20042026;
-
+ 
 /**
  *
  * @author ASUS VIVOBOOK
